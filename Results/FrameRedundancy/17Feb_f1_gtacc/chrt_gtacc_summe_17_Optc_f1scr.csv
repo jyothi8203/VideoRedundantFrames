@@ -1,0 +1,25 @@
+VideoName,FrameCount,MissCount,Accuracy,OptFlwGTAcc,MnF1Score,MxF1Score,Time
+Air_Force_One,4494,"(4487, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwAir_Force_One')",0.901424,0.319878,0.005217,0.026374,00:56.0
+Base jumping,4729,"(4564, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwBase jumping')",0.875872,0.340964,0.070978,0.286396,00:11.8
+Bearpark_climbing,3341,"(2026, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwBearpark_climbing')",0.592637,0.456527,0.144262,0.250138,00:20.2
+Bike Polo,3064,"(2964, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwBike Polo')",0.916775,0.399023,0.03522,0.304348,00:16.8
+Bus_in_Rock_Tunnel,5131,"(4233, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwBus_in_Rock_Tunnel')",0.835315,0.337412,0.155625,0.294069,00:08.8
+car_over_camera,4382,"(4354, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwcar_over_camera')",0.927659,0.523205,0.026013,0.079077,00:07.4
+Car_railcrossing,5075,"(5030, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwCar_railcrossing')",0.908571,0.399838,0.012782,0.134585,00:30.2
+Cockpit_Landing,9046,"(7939, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwCockpit_Landing')",0.836171,0.362492,0.08178,0.291478,00:52.6
+Cooking,1286,"(812, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwCooking')",0.616641,0.483916,0.184757,0.251897,00:01.0
+Eiffel Tower,4971,"(3920, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwEiffel Tower')",0.836451,0.475676,0.246103,0.511124,01:05.0
+Excavators river crossing,9721,"(9211, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwExcavators river crossing')",0.88746,0.378598,0.157136,0.333739,00:13.2
+Fire Domino,1612,"(1259, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwFire Domino')",0.763027,0.415276,0.15519,0.363333,00:02.2
+Jumps,950,"(821, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwJumps')",0.845263,0.449394,0.216064,0.465455,00:00.6
+Kids_playing_in_leaves,3187,"(2164, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwKids_playing_in_leaves')",0.689677,0.430407,0.147402,0.334007,00:19.3
+Notre_Dame,4608,"(4462, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwNotre_Dame')",0.925564,0.310966,0.092529,0.333981,00:56.5
+Paintball,6096,"(6070, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwPaintball')",0.952756,0.544564,0.057793,0.13253,00:35.4
+paluma_jump,2574,"(2023, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwpaluma_jump')",0.739316,0.483115,0.067683,0.241808,00:06.1
+playing_ball,3120,"(2952, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwplaying_ball')",0.889423,0.393533,0.136373,0.454976,00:04.1
+Playing_on_water_slide,3065,"(2878, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwPlaying_on_water_slide')",0.912561,0.327412,0.083713,0.409692,00:04.0
+Saving dolphines,6683,"(6491, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwSaving dolphines')",0.878947,0.196562,0.105029,0.290973,00:27.6
+Scuba,2221,"(1958, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwScuba')",0.846015,0.315994,0.135635,0.40201,00:11.8
+St Maarten Landing,1751,"(1567, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwSt Maarten Landing')",0.829812,0.467297,0.178251,0.325792,00:04.4
+Statue of Liberty,3863,"(3613, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwStatue of Liberty')",0.884028,0.333121,0.039802,0.421557,00:06.6
+Valparaiso_Downhill,5178,"(4563, 'D:/Project/DataSets/SumMe/videos/output_l2\\optc_flwValparaiso_Downhill')",0.87331,0.376311,0.160985,0.354331,00:27.3
